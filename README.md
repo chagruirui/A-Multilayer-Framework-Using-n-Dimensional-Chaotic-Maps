@@ -1,0 +1,1 @@
+The paper titled "Enhancing IoMT Medical Image Security: A Multilayer Framework Using n-Dimensional Chaotic Maps" for consideration as a regular article in The Visual Computer. We encourage the reader to cite this relevant manuscript。
